@@ -49,13 +49,8 @@ No additional Python packages are required.
 - Validating user input
 - Managing game state
 - Implementing basic game logic
-
-## Future Improvements
-
-- Display position numbers in empty squares
 - Improve the replay functionality
 - Refactor the code for better readability
-- Add automated tests
 
 ---
 
